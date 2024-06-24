@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\specialitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\specialitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\researchdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\researchdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\directionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\directionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\appointmentdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\appointmentdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\analysedocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\analysedocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\umiascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\umiascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\researchdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\researchdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\appointmentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\appointmentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|c:\\users\\rhali\\source\\repos\\emias_api\\emias_api\\models\\analysedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E98B6-3B91-4DF1-A893-6D97841E8344}|EMIAS_API\\EMIAS_API.csproj|solutionrelative:emias_api\\models\\analysedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:03:51.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpecialitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\SpecialitiesController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\SpecialitiesController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\SpecialitiesController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\SpecialitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:03:23.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:02:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:01:46.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Doctor.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:50:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Status.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:51:13.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResearchDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\ResearchDocumentsController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\ResearchDocumentsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\ResearchDocumentsController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\ResearchDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:03:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DirectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\DirectionsController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\DirectionsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\DirectionsController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\DirectionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:01:07.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\AppointmentDocumentsController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\AppointmentDocumentsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\AppointmentDocumentsController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\AppointmentDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:00:36.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:59:22.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnalyseDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\AnalyseDocumentsController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\AnalyseDocumentsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\AnalyseDocumentsController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\AnalyseDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:57:43.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "EMIAS_API\\Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:57:07.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\appsettings.json",
+              "RelativeDocumentMoniker": "EMIAS_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\appsettings.json",
+              "RelativeToolTip": "EMIAS_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T15:52:15.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Program.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Program.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Program.cs",
+              "RelativeToolTip": "EMIAS_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:51:41.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Speciality.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Speciality.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\Speciality.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Speciality.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\Speciality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:51:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResearchDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\ResearchDocument.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\ResearchDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\ResearchDocument.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\ResearchDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:50:54.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Admin.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:49:20.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UMIASContext.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\UMIASContext.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\UMIASContext.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\UMIASContext.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\UMIASContext.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:49:10.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Patient.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\Patient.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:50:27.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Direction.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\Direction.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Direction.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:50:07.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppointmentDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\AppointmentDocument.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\AppointmentDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\AppointmentDocument.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\AppointmentDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:50:01.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\Appointment.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:49:34.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AnalyseDocument.cs",
+              "DocumentMoniker": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\AnalyseDocument.cs",
+              "RelativeDocumentMoniker": "EMIAS_API\\Models\\AnalyseDocument.cs",
+              "ToolTip": "C:\\Users\\rhali\\source\\repos\\EMIAS_API\\EMIAS_API\\Models\\AnalyseDocument.cs",
+              "RelativeToolTip": "EMIAS_API\\Models\\AnalyseDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:49:28.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 940,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
